@@ -1,13 +1,13 @@
 {
   "name": "react-card",
-  "author": "oneheka",
+  "author": "oneits",
   "version": "0.1.0",
   "license": "ISC",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "./app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oneheka/React-Discord-Business-Card"
+    "url": "https://github.com/oneitss/Discord-Card-Profile"
   },
   "private": true,
   "dependencies": {
